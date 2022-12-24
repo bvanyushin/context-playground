@@ -1,3 +1,16 @@
+# Demo
+To watch strange behaviour of React Context run the app, open the console and click on buttons.
+
+`ControlActionType` component is here to demo, that old good props passing still work
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
